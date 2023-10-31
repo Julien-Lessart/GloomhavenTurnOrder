@@ -1,0 +1,2027 @@
+[
+  {
+    "name": "#1 Black Barrow",
+    "decks": [
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Squelettes réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#2 Barrow Lair",
+    "decks": [
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Bandit Commander"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#3 Inox Encampment",
+    "decks": [
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Shamn Inox"
+      }
+    ]
+  },
+  {
+    "name": "#4 Crypt of the Damned",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon du vent"
+      }
+    ]
+  },
+  {
+    "name": "#5 Ruinous Crypt",
+    "decks": [
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de givre"
+      }
+    ]
+  },
+  {
+    "name": "#6 Decaying Crypt",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#7 Vibrant Grotto",
+    "decks": [
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Shamn Inox"
+      },
+      {
+        "name": "Démon de la terre"
+      }
+    ]
+  },
+  {
+    "name": "#8 Gloomhaven Warehouse",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Inox Bodyguard"
+      }
+    ]
+  },
+  {
+    "name": "#9 Diamond Mine",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Merciless Overseer"
+      }
+    ]
+  },
+  {
+    "name": "#10 Plane of Elemental Power",
+    "decks": [
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon du soleil"
+      }
+    ]
+  },
+  {
+    "name": "#11 Gloomhaven Square A",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Captain of the Guard"
+      }
+    ]
+  },
+  {
+    "name": "#12 Gloomhaven Square B",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Jekserah"
+      }
+    ]
+  },
+  {
+    "name": "#13 Temple of the Seer",
+    "decks": [
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      }
+    ]
+  },
+  {
+    "name": "#14 Frozen Hollow",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Démon de givre"
+      }
+    ]
+  },
+  {
+    "name": "#15 Shrine of Strength",
+    "decks": [
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Savvas Icestorm"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Harrower Infester"
+      }
+    ]
+  },
+  {
+    "name": "#16 Mountain Pass",
+    "decks": [
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Archer inox"
+      }
+    ]
+  },
+  {
+    "name": "#17 Lost Island",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Ours"
+      }
+    ]
+  },
+  {
+    "name": "#18 Abandoned Sewers",
+    "decks": [
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Eclaireur vermling"
+      }
+    ]
+  },
+  {
+    "name": "#19 Forgotten Crypt",
+    "decks": [
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#20 Necromancer's Sanctum",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Jekserah"
+      }
+    ]
+  },
+  {
+    "name": "#21 Infernal Throne",
+    "decks": [
+      {
+        "name": "Démon du soleil"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Prime Demon"
+      }
+    ]
+  },
+  {
+    "name": "#22 Temple of the Elements",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon du vent"
+      }
+    ]
+  },
+  {
+    "name": "#23 Deep Ruins",
+    "decks": [
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#24 Echo Chamber",
+    "decks": [
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#25 Icecrag Ascent",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      }
+    ]
+  },
+  {
+    "name": "#26 Ancient Cistern",
+    "decks": [
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#27 Ruinous Rift",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon du soleil"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon de flamme"
+      }
+    ]
+  },
+  {
+    "name": "#28 Outer Ritual Chamber",
+    "decks": [
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du soleil"
+      }
+    ]
+  },
+  {
+    "name": "#29 Sanctuary of Gloom",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#30 Shrine of the Depths",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Terreur des profondeur"
+      }
+    ]
+  },
+  {
+    "name": "#31 Plane of the Night",
+    "decks": [
+      {
+        "name": "Terreur des profondeur"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#32 Decrepit Wood",
+    "decks": [
+      {
+        "name": "Harrower Infester"
+      },
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Terreur des profondeur"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#33 Savvas Armory",
+    "decks": [
+      {
+        "name": "Savvas Icestorm"
+      },
+      {
+        "name": "Savvas Lavaflow"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Démon de la terre"
+      }
+    ]
+  },
+  {
+    "name": "#34 Scorched Summit",
+    "decks": [
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Elder Drake"
+      }
+    ]
+  },
+  {
+    "name": "#35 Gloomhaven Battlements A",
+    "decks": [
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon du vent"
+      }
+    ]
+  },
+  {
+    "name": "#36 Gloomhaven Battlements B",
+    "decks": [
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Prime Demon"
+      }
+    ]
+  },
+  {
+    "name": "#37 Doom Trench",
+    "decks": [
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Terreur des profondeur"
+      },
+      {
+        "name": "Harrower Infester"
+      }
+    ]
+  },
+  {
+    "name": "#38 Slave Pens",
+    "decks": [
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Shamn Inox"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#39 Treacherous Divide",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#40 Ancient Defense Network",
+    "decks": [
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Diablotin des forets"
+      }
+    ]
+  },
+  {
+    "name": "#41 Timeworn Tomb",
+    "decks": [
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#42 Realm of the Voice",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#43 - Drake Nest",
+    "decks": [
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      }
+    ]
+  },
+  {
+    "name": "#44 Tribal Assault",
+    "decks": [
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Shamn Inox"
+      }
+    ]
+  },
+  {
+    "name": "#45 Rebel Swamp",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Chien"
+      }
+    ]
+  },
+  {
+    "name": "#46 Nightmare Peak",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Savvas Icestorm"
+      },
+      {
+        "name": "Winged Horror"
+      }
+    ]
+  },
+  {
+    "name": "#47 Lair of the Unseeing Eye",
+    "decks": [
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Terreur des profondeur"
+      },
+      {
+        "name": "Harrower Infester"
+      },
+      {
+        "name": "The Sightless Eye"
+      }
+    ]
+  },
+  {
+    "name": "#48 - Shadow Weald",
+    "decks": [
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Harrower Infester"
+      },
+      {
+        "name": "Dark Rider"
+      }
+    ]
+  },
+  {
+    "name": "#49 Rebel's Stand",
+    "decks": [
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Canon ancien"
+      }
+    ]
+  },
+  {
+    "name": "#50 Ghost Fortress",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du soleil"
+      },
+      {
+        "name": "Démon de la terre"
+      }
+    ]
+  },
+  {
+    "name": "#51 The Void",
+    "decks": [
+      {
+        "name": "The Gloom"
+      }
+    ]
+  },
+  {
+    "name": "#52 Noxious Cellar",
+    "decks": [
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Shaman vermling"
+      }
+    ]
+  },
+  {
+    "name": "#53 Crypt Basement",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Vipére géant"
+      }
+    ]
+  },
+  {
+    "name": "#54 Palace of Ice",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Harrower Infester"
+      }
+    ]
+  },
+  {
+    "name": "#55 Foggy Thicket",
+    "decks": []
+  },
+  {
+    "name": "#56 Bandit's Wood",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Bandit Guard"
+      }
+    ]
+  },
+  {
+    "name": "#57 Investigation",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Chien"
+      }
+    ]
+  },
+  {
+    "name": "#58 Bloody Shack",
+    "decks": [
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Harrower Infester"
+      },
+      {
+        "name": "Diablotin noir"
+      },
+      {
+        "name": "Guarde de la cité"
+      }
+    ]
+  },
+  {
+    "name": "#59 Forgotten Grove",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Diablotin des forets"
+      }
+    ]
+  },
+  {
+    "name": "#60 Alchemy Lab",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      }
+    ]
+  },
+  {
+    "name": "#61 Fading Lighthouse",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon de flamme"
+      }
+    ]
+  },
+  {
+    "name": "#62 Pit of Souls",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#63 Magma Pit",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Démon de flamme"
+      }
+    ]
+  },
+  {
+    "name": "#64 Underwater Lagoon",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      }
+    ]
+  },
+  {
+    "name": "#65 Sulfur Mine",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Shamn Inox"
+      }
+    ]
+  },
+  {
+    "name": "#66 Clockwork Cove",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#67 Arcane Library",
+    "decks": [
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#68 Toxic Moor",
+    "decks": [
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Diablotin noir"
+      },
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Corps réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#69 Well of the Unfortunate",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#70 Chained Isle",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#71 Windswept Highlands",
+    "decks": [
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Démon du soleil"
+      }
+    ]
+  },
+  {
+    "name": "#72 Oozing Grove",
+    "decks": [
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Vipére géant"
+      }
+    ]
+  },
+  {
+    "name": "#73 Rockslide Ridge",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Shamn Inox"
+      }
+    ]
+  },
+  {
+    "name": "#74 Merchant Ship",
+    "decks": [
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Terreur des profondeur"
+      }
+    ]
+  },
+  {
+    "name": "#75 Overgrown Graveyard",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#76 Harrower Hive",
+    "decks": [
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Harrower Infester"
+      }
+    ]
+  },
+  {
+    "name": "#77 Vault of Secrets",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Chien"
+      }
+    ]
+  },
+  {
+    "name": "#78 Sacrifice Pit",
+    "decks": [
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#79 Lost Temple",
+    "decks": [
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "The Betrayer"
+      }
+    ]
+  },
+  {
+    "name": "#80 Vigil Keep",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "Chien"
+      }
+    ]
+  },
+  {
+    "name": "#81 Temple of the Eclipse",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du soleil"
+      },
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "The Colorless"
+      }
+    ]
+  },
+  {
+    "name": "#82 Burning Mountain",
+    "decks": [
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#83 Shadows Within",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Démon de flamme"
+      }
+    ]
+  },
+  {
+    "name": "#84 Crystalline Cave",
+    "decks": [
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon de la terre"
+      }
+    ]
+  },
+  {
+    "name": "#85 Sun Temple",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Diablotin noir"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Démon du soleil"
+      }
+    ]
+  },
+  {
+    "name": "#86 Harried Village",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Lurker"
+      }
+    ]
+  },
+  {
+    "name": "#87 Corrupted Cove",
+    "decks": [
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Terreur des profondeur"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#88 Plane of Water",
+    "decks": [
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Lurker"
+      }
+    ]
+  },
+  {
+    "name": "#89 Syndicate Hideout",
+    "decks": [
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Vipére géant"
+      }
+    ]
+  },
+  {
+    "name": "#90 Demonic Rift",
+    "decks": [
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#91 Wild Melee",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#92 Back Alley Brawl",
+    "decks": [
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Savvas Icestorm"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon du vent"
+      }
+    ]
+  },
+  {
+    "name": "#93 Sunken Vessel",
+    "decks": [
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Esprit réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#94 Vermling Nest",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Ours"
+      }
+    ]
+  },
+  {
+    "name": "#95 Payment Due",
+    "decks": [
+      {
+        "name": "Terreur des profondeur"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Savvas Lavaflow"
+      }
+    ]
+  },
+  {
+    "name": "#K1 Just Another Night",
+    "decks": [
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Shamn Inox"
+      }
+    ]
+  },
+  {
+    "name": "#K2 A Quatryl Scorned",
+    "decks": [
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Canon ancien"
+      }
+    ]
+  },
+  {
+    "name": "#K3 Unreliable Medicine",
+    "decks": [
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      }
+    ]
+  },
+  {
+    "name": "#K4 Unlikely Allies",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Vipére géant"
+      }
+    ]
+  },
+  {
+    "name": "#K5 The Sun Spire",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Démon du soleil"
+      },
+      {
+        "name": "Diablotin noir"
+      },
+      {
+        "name": "Shaman vermling"
+      }
+    ]
+  },
+  {
+    "name": "#K6 A Ship in a Storm",
+    "decks": [
+      {
+        "name": "Démon du vent"
+      },
+      {
+        "name": "Lurker"
+      },
+      {
+        "name": "Démon de givre"
+      }
+    ]
+  },
+  {
+    "name": "#K7 Arrival in Chains",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#K8 The Doctor's Lab",
+    "decks": [
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Canon ancien"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#K9 Skewed Perspective",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Esprit réanimées"
+      },
+      {
+        "name": "Squelettes réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#K10 Panic Room",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Terreur des profondeur"
+      }
+    ]
+  },
+  {
+    "name": "#S1 - Brute - Return to the Black Barrow",
+    "decks": [
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Squelettes réanimées"
+      }
+    ]
+  },
+  {
+    "name": "#S2 - Tinkerer - An Unfortunate Intrusion",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      }
+    ]
+  },
+  {
+    "name": "#S3 - Spellweaver - Corrupted Library",
+    "decks": [
+      {
+        "name": "Diablotin noir"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Golem de pierre"
+      }
+    ]
+  },
+  {
+    "name": "#S4 - Scoundrel - Armory Heist",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Canon ancien"
+      }
+    ]
+  },
+  {
+    "name": "#S5 - Cragheart - Stone Defense",
+    "decks": [
+      {
+        "name": "Ours"
+      },
+      {
+        "name": "Slime"
+      },
+      {
+        "name": "Démon du soleil"
+      }
+    ]
+  },
+  {
+    "name": "#S6 - Mindthief - Rodent Liberation",
+    "decks": [
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Démon de la terre"
+      }
+    ]
+  },
+  {
+    "name": "#S7 - Sunkeeper - Caravan Escort",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Guarde inox"
+      },
+      {
+        "name": "Archer inox"
+      },
+      {
+        "name": "Shamn Inox"
+      },
+      {
+        "name": "Eclaireur vermling"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Ours"
+      }
+    ]
+  },
+  {
+    "name": "#S8 - Berserker - Unnatural Insults",
+    "decks": [
+      {
+        "name": "Corps réanimées"
+      },
+      {
+        "name": "Squelettes réanimées"
+      },
+      {
+        "name": "Cultiste"
+      },
+      {
+        "name": "Shamn Inox"
+      }
+    ]
+  },
+  {
+    "name": "#S9 - Quartermaster - Storage Fees",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Bandit Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      }
+    ]
+  },
+  {
+    "name": "#S10 - Summoner - Plane of the Wild Beasts",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      },
+      {
+        "name": "Ours"
+      }
+    ]
+  },
+  {
+    "name": "#S11 - Nightshroud - Harvesting the Night",
+    "decks": [
+      {
+        "name": "Démon de la nuit"
+      },
+      {
+        "name": "Terreur des profondeur"
+      }
+    ]
+  },
+  {
+    "name": "#S12 - Plagueherald - Plagued Crypt",
+    "decks": [
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Diablotin noir"
+      }
+    ]
+  },
+  {
+    "name": "#S13 - Soothsinger - Battle of the Bards",
+    "decks": [
+      {
+        "name": "Bandit  Guard"
+      },
+      {
+        "name": "Bandit Archer"
+      },
+      {
+        "name": "Guarde de la cité"
+      },
+      {
+        "name": "Archer de la cité"
+      },
+      {
+        "name": "Golem de pierre"
+      },
+      {
+        "name": "Shaman vermling"
+      }
+    ]
+  },
+  {
+    "name": "#S14 - Doomstalker - Corrupted Hunt",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Vipére géant"
+      },
+      {
+        "name": "Wyverne charcheuse"
+      }
+    ]
+  },
+  {
+    "name": "#S15 - Sawbones - Aftermath",
+    "decks": [
+      {
+        "name": "Guarde de la cité"
+      }
+    ]
+  },
+  {
+    "name": "#S16 - Elementalist - Elemental Secrets",
+    "decks": [
+      {
+        "name": "Démon de flamme"
+      },
+      {
+        "name": "Démon de la terre"
+      },
+      {
+        "name": "Démon de givre"
+      },
+      {
+        "name": "Démon du vent"
+      }
+    ]
+  },
+  {
+    "name": "#S17 - Beast Tyrant - The Caged Bear",
+    "decks": [
+      {
+        "name": "Chien"
+      },
+      {
+        "name": "Diablotin des forets"
+      },
+      {
+        "name": "Wyverne écorcheuse"
+      },
+      {
+        "name": "Shaman vermling"
+      },
+      {
+        "name": "Ours"
+      }
+    ]
+  }
+]
