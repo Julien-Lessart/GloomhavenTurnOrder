@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style/style.css" />
+  </head>
+  <body>
+    <div>
+      <label for="number-scenario"> Rentrer le numero de scenario</label>
+      <input
+        type="number"
+        name="number-scenario"
+        id="number-scenario"
+        min="1"
+        max="99"
+      />
+      <button id="btn-start">START SCENARIO</button>
+    </div>
+
+    <div id="main-div"></div>
+    <button id="btn-sort">SORT MONSTRE</button>
+    <button id="btn-tour">FIN DE TOUR</button>
+    <button id="btn-end">FIN DE SCENARIO</button>
+
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
