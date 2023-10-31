@@ -9,7 +9,7 @@
         "name": "Bandit Archer"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       }
     ]
   },
@@ -23,10 +23,10 @@
         "name": "Bandit Commander"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       }
     ]
   },
@@ -34,13 +34,13 @@
     "name": "#3 Inox Encampment",
     "decks": [
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       }
     ]
   },
@@ -48,19 +48,19 @@
     "name": "#4 Crypt of the Damned",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
         "name": "Bandit Archer"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       }
     ]
   },
@@ -68,22 +68,22 @@
     "name": "#5 Ruinous Crypt",
     "decks": [
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       }
     ]
   },
@@ -91,13 +91,13 @@
     "name": "#6 Decaying Crypt",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -105,16 +105,16 @@
     "name": "#7 Vibrant Grotto",
     "decks": [
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       }
     ]
   },
@@ -122,10 +122,10 @@
     "name": "#8 Gloomhaven Warehouse",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
         "name": "Inox Bodyguard"
@@ -136,10 +136,10 @@
     "name": "#9 Diamond Mine",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
         "name": "Merciless Overseer"
@@ -150,13 +150,13 @@
     "name": "#10 Plane of Elemental Power",
     "decks": [
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       }
     ]
   },
@@ -164,16 +164,16 @@
     "name": "#11 Gloomhaven Square A",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
         "name": "Captain of the Guard"
@@ -184,19 +184,19 @@
     "name": "#12 Gloomhaven Square B",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
         "name": "Jekserah"
@@ -207,16 +207,16 @@
     "name": "#13 Temple of the Seer",
     "decks": [
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       }
     ]
   },
@@ -224,13 +224,13 @@
     "name": "#14 Frozen Hollow",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       }
     ]
   },
@@ -238,16 +238,16 @@
     "name": "#15 Shrine of Strength",
     "decks": [
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
         "name": "Savvas Icestorm"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
         "name": "Harrower Infester"
@@ -258,16 +258,16 @@
     "name": "#16 Mountain Pass",
     "decks": [
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       }
     ]
   },
@@ -275,13 +275,13 @@
     "name": "#17 Lost Island",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       }
     ]
   },
@@ -289,13 +289,13 @@
     "name": "#18 Abandoned Sewers",
     "decks": [
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       }
     ]
   },
@@ -303,16 +303,16 @@
     "name": "#19 Forgotten Crypt",
     "decks": [
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       }
     ]
   },
@@ -320,16 +320,16 @@
     "name": "#20 Necromancer's Sanctum",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
         "name": "Jekserah"
@@ -340,22 +340,22 @@
     "name": "#21 Infernal Throne",
     "decks": [
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
         "name": "Prime Demon"
@@ -366,22 +366,22 @@
     "name": "#22 Temple of the Elements",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       }
     ]
   },
@@ -389,16 +389,16 @@
     "name": "#23 Deep Ruins",
     "decks": [
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -406,13 +406,13 @@
     "name": "#24 Echo Chamber",
     "decks": [
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -420,13 +420,13 @@
     "name": "#25 Icecrag Ascent",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       }
     ]
   },
@@ -434,16 +434,16 @@
     "name": "#26 Ancient Cistern",
     "decks": [
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -451,22 +451,22 @@
     "name": "#27 Ruinous Rift",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       }
     ]
   },
@@ -474,19 +474,19 @@
     "name": "#28 Outer Ritual Chamber",
     "decks": [
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       }
     ]
   },
@@ -494,16 +494,16 @@
     "name": "#29 Sanctuary of Gloom",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -511,13 +511,13 @@
     "name": "#30 Shrine of the Depths",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
         "name": "Lurker"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       }
     ]
   },
@@ -525,13 +525,13 @@
     "name": "#31 Plane of the Night",
     "decks": [
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -542,13 +542,13 @@
         "name": "Harrower Infester"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -562,16 +562,16 @@
         "name": "Savvas Lavaflow"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       }
     ]
   },
@@ -579,10 +579,10 @@
     "name": "#34 Scorched Summit",
     "decks": [
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
         "name": "Elder Drake"
@@ -593,16 +593,16 @@
     "name": "#35 Gloomhaven Battlements A",
     "decks": [
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       }
     ]
   },
@@ -610,19 +610,19 @@
     "name": "#36 Gloomhaven Battlements B",
     "decks": [
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
         "name": "Prime Demon"
@@ -636,7 +636,7 @@
         "name": "Lurker"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       },
       {
         "name": "Harrower Infester"
@@ -647,16 +647,16 @@
     "name": "#38 Slave Pens",
     "decks": [
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -664,19 +664,19 @@
     "name": "#39 Treacherous Divide",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       }
     ]
   },
@@ -684,19 +684,19 @@
     "name": "#40 Ancient Defense Network",
     "decks": [
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       }
     ]
   },
@@ -704,16 +704,16 @@
     "name": "#41 Timeworn Tomb",
     "decks": [
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -721,13 +721,13 @@
     "name": "#42 Realm of the Voice",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -735,13 +735,13 @@
     "name": "#43 - Drake Nest",
     "decks": [
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       }
     ]
   },
@@ -749,16 +749,16 @@
     "name": "#44 Tribal Assault",
     "decks": [
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       }
     ]
   },
@@ -766,13 +766,13 @@
     "name": "#45 Rebel Swamp",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       }
     ]
   },
@@ -780,13 +780,13 @@
     "name": "#46 Nightmare Peak",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
         "name": "Savvas Icestorm"
@@ -803,7 +803,7 @@
         "name": "Lurker"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       },
       {
         "name": "Harrower Infester"
@@ -817,10 +817,10 @@
     "name": "#48 - Shadow Weald",
     "decks": [
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
         "name": "Harrower Infester"
@@ -834,16 +834,16 @@
     "name": "#49 Rebel's Stand",
     "decks": [
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       }
     ]
   },
@@ -851,13 +851,13 @@
     "name": "#50 Ghost Fortress",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       }
     ]
   },
@@ -873,19 +873,19 @@
     "name": "#52 Noxious Cellar",
     "decks": [
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       }
     ]
   },
@@ -893,19 +893,19 @@
     "name": "#53 Crypt Basement",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       }
     ]
   },
@@ -913,13 +913,13 @@
     "name": "#54 Palace of Ice",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
         "name": "Harrower Infester"
@@ -934,13 +934,13 @@
     "name": "#56 Bandit's Wood",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
         "name": "Bandit Archer"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
         "name": "Bandit Guard"
@@ -951,13 +951,13 @@
     "name": "#57 Investigation",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       }
     ]
   },
@@ -965,16 +965,16 @@
     "name": "#58 Bloody Shack",
     "decks": [
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
         "name": "Harrower Infester"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       },
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       }
     ]
   },
@@ -982,13 +982,13 @@
     "name": "#59 Forgotten Grove",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       }
     ]
   },
@@ -996,19 +996,19 @@
     "name": "#60 Alchemy Lab",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       }
     ]
   },
@@ -1016,16 +1016,16 @@
     "name": "#61 Fading Lighthouse",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       }
     ]
   },
@@ -1033,10 +1033,10 @@
     "name": "#62 Pit of Souls",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1044,16 +1044,16 @@
     "name": "#63 Magma Pit",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       }
     ]
   },
@@ -1061,13 +1061,13 @@
     "name": "#64 Underwater Lagoon",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       }
     ]
   },
@@ -1075,13 +1075,13 @@
     "name": "#65 Sulfur Mine",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       }
     ]
   },
@@ -1089,16 +1089,16 @@
     "name": "#66 Clockwork Cove",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -1106,13 +1106,13 @@
     "name": "#67 Arcane Library",
     "decks": [
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -1120,16 +1120,16 @@
     "name": "#68 Toxic Moor",
     "decks": [
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       }
     ]
   },
@@ -1137,19 +1137,19 @@
     "name": "#69 Well of the Unfortunate",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1157,13 +1157,13 @@
     "name": "#70 Chained Isle",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1171,13 +1171,13 @@
     "name": "#71 Windswept Highlands",
     "decks": [
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       }
     ]
   },
@@ -1185,13 +1185,13 @@
     "name": "#72 Oozing Grove",
     "decks": [
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       }
     ]
   },
@@ -1199,19 +1199,19 @@
     "name": "#73 Rockslide Ridge",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       }
     ]
   },
@@ -1228,7 +1228,7 @@
         "name": "Lurker"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       }
     ]
   },
@@ -1236,13 +1236,13 @@
     "name": "#75 Overgrown Graveyard",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1250,13 +1250,13 @@
     "name": "#76 Harrower Hive",
     "decks": [
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
         "name": "Harrower Infester"
@@ -1267,16 +1267,16 @@
     "name": "#77 Vault of Secrets",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       }
     ]
   },
@@ -1290,13 +1290,13 @@
         "name": "Bandit Archer"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -1304,10 +1304,10 @@
     "name": "#79 Lost Temple",
     "decks": [
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
         "name": "The Betrayer"
@@ -1318,16 +1318,16 @@
     "name": "#80 Vigil Keep",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       }
     ]
   },
@@ -1335,16 +1335,16 @@
     "name": "#81 Temple of the Eclipse",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
         "name": "The Colorless"
@@ -1355,13 +1355,13 @@
     "name": "#82 Burning Mountain",
     "decks": [
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -1369,19 +1369,19 @@
     "name": "#83 Shadows Within",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       }
     ]
   },
@@ -1389,13 +1389,13 @@
     "name": "#84 Crystalline Cave",
     "decks": [
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       }
     ]
   },
@@ -1403,16 +1403,16 @@
     "name": "#85 Sun Temple",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       }
     ]
   },
@@ -1420,13 +1420,13 @@
     "name": "#86 Harried Village",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
         "name": "Lurker"
@@ -1440,13 +1440,13 @@
         "name": "Lurker"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -1454,10 +1454,10 @@
     "name": "#88 Plane of Water",
     "decks": [
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
         "name": "Lurker"
@@ -1474,13 +1474,13 @@
         "name": "Bandit Guard"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       }
     ]
   },
@@ -1488,16 +1488,16 @@
     "name": "#90 Demonic Rift",
     "decks": [
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1505,10 +1505,10 @@
     "name": "#91 Wild Melee",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
         "name": "Bandit Guard"
@@ -1517,7 +1517,7 @@
         "name": "Bandit Archer"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1528,25 +1528,25 @@
         "name": "Bandit Guard"
       },
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
         "name": "Bandit Archer"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
         "name": "Savvas Icestorm"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       }
     ]
   },
@@ -1557,10 +1557,10 @@
         "name": "Lurker"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       }
     ]
   },
@@ -1568,16 +1568,16 @@
     "name": "#94 Vermling Nest",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       }
     ]
   },
@@ -1585,13 +1585,13 @@
     "name": "#95 Payment Due",
     "decks": [
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
         "name": "Savvas Lavaflow"
@@ -1608,13 +1608,13 @@
         "name": "Bandit Guard"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       }
     ]
   },
@@ -1628,7 +1628,7 @@
         "name": "Bandit Guard"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       }
     ]
   },
@@ -1636,16 +1636,16 @@
     "name": "#K3 Unreliable Medicine",
     "decks": [
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       }
     ]
   },
@@ -1653,10 +1653,10 @@
     "name": "#K4 Unlikely Allies",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       }
     ]
   },
@@ -1664,16 +1664,16 @@
     "name": "#K5 The Sun Spire",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       }
     ]
   },
@@ -1681,13 +1681,13 @@
     "name": "#K6 A Ship in a Storm",
     "decks": [
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       },
       {
         "name": "Lurker"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       }
     ]
   },
@@ -1695,16 +1695,16 @@
     "name": "#K7 Arrival in Chains",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -1712,16 +1712,16 @@
     "name": "#K8 The Doctor's Lab",
     "decks": [
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -1729,16 +1729,16 @@
     "name": "#K9 Skewed Perspective",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Living Spirit"
+        "name": "Esprit réanimées"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       }
     ]
   },
@@ -1746,10 +1746,10 @@
     "name": "#K10 Panic Room",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       }
     ]
   },
@@ -1763,7 +1763,7 @@
         "name": "Bandit Archer"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       }
     ]
   },
@@ -1771,13 +1771,13 @@
     "name": "#S2 - Tinkerer - An Unfortunate Intrusion",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       }
     ]
   },
@@ -1785,13 +1785,13 @@
     "name": "#S3 - Spellweaver - Corrupted Library",
     "decks": [
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       }
     ]
   },
@@ -1799,13 +1799,13 @@
     "name": "#S4 - Scoundrel - Armory Heist",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Ancient Artillery"
+        "name": "Canon ancien"
       }
     ]
   },
@@ -1813,13 +1813,13 @@
     "name": "#S5 - Cragheart - Stone Defense",
     "decks": [
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       },
       {
-        "name": "Ooze"
+        "name": "Slime"
       },
       {
-        "name": "Sun Demon"
+        "name": "Démon du soleil"
       }
     ]
   },
@@ -1827,13 +1827,13 @@
     "name": "#S6 - Mindthief - Rodent Liberation",
     "decks": [
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       }
     ]
   },
@@ -1841,7 +1841,7 @@
     "name": "#S7 - Sunkeeper - Caravan Escort",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
         "name": "Bandit Guard"
@@ -1850,22 +1850,22 @@
         "name": "Bandit Archer"
       },
       {
-        "name": "Inox Guard"
+        "name": "Guarde inox"
       },
       {
-        "name": "Inox Archer"
+        "name": "Archer inox"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       },
       {
-        "name": "Vermling Scout"
+        "name": "Eclaireur vermling"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       }
     ]
   },
@@ -1873,16 +1873,16 @@
     "name": "#S8 - Berserker - Unnatural Insults",
     "decks": [
       {
-        "name": "Living Corpse"
+        "name": "Corps réanimées"
       },
       {
-        "name": "Living Bones"
+        "name": "Squelettes réanimées"
       },
       {
-        "name": "Cultist"
+        "name": "Cultiste"
       },
       {
-        "name": "Inox Shaman"
+        "name": "Shamn Inox"
       }
     ]
   },
@@ -1890,7 +1890,7 @@
     "name": "#S9 - Quartermaster - Storage Fees",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
         "name": "Bandit Guard"
@@ -1904,13 +1904,13 @@
     "name": "#S10 - Summoner - Plane of the Wild Beasts",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       }
     ]
   },
@@ -1918,10 +1918,10 @@
     "name": "#S11 - Nightshroud - Harvesting the Night",
     "decks": [
       {
-        "name": "Night Demon"
+        "name": "Démon de la nuit"
       },
       {
-        "name": "Deep Terror"
+        "name": "Terreur des profondeur"
       }
     ]
   },
@@ -1929,10 +1929,10 @@
     "name": "#S12 - Plagueherald - Plagued Crypt",
     "decks": [
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Black Imp"
+        "name": "Diablotin noir"
       }
     ]
   },
@@ -1946,16 +1946,16 @@
         "name": "Bandit Archer"
       },
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       },
       {
-        "name": "City Archer"
+        "name": "Archer de la cité"
       },
       {
-        "name": "Stone Golem"
+        "name": "Golem de pierre"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       }
     ]
   },
@@ -1963,19 +1963,19 @@
     "name": "#S14 - Doomstalker - Corrupted Hunt",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Giant Viper"
+        "name": "Vipére géant"
       },
       {
-        "name": "Spitting Drake"
+        "name": "Wyverne charcheuse"
       }
     ]
   },
@@ -1983,7 +1983,7 @@
     "name": "#S15 - Sawbones - Aftermath",
     "decks": [
       {
-        "name": "City Guard"
+        "name": "Guarde de la cité"
       }
     ]
   },
@@ -1991,16 +1991,16 @@
     "name": "#S16 - Elementalist - Elemental Secrets",
     "decks": [
       {
-        "name": "Flame Demon"
+        "name": "Démon de flamme"
       },
       {
-        "name": "Earth Demon"
+        "name": "Démon de la terre"
       },
       {
-        "name": "Frost Demon"
+        "name": "Démon de givre"
       },
       {
-        "name": "Wind Demon"
+        "name": "Démon du vent"
       }
     ]
   },
@@ -2008,19 +2008,19 @@
     "name": "#S17 - Beast Tyrant - The Caged Bear",
     "decks": [
       {
-        "name": "Hound"
+        "name": "Chien"
       },
       {
-        "name": "Forest Imp"
+        "name": "Diablotin des forets"
       },
       {
-        "name": "Rending Drake"
+        "name": "Wyverne écorcheuse"
       },
       {
-        "name": "Vermling Shaman"
+        "name": "Shaman vermling"
       },
       {
-        "name": "Cave Bear"
+        "name": "Ours"
       }
     ]
   }
